@@ -16,9 +16,9 @@ namespace bot_deneme
     class Program
     {
 
-        #region Hidden
-        private const string username = "hasanqunes01";
-        private const string password = "PoemMargin1411";
+        #region Private Fields
+        private const string username = "id";
+        private const string password = "pass";
         #endregion
 
         private static UserSessionData user ;
